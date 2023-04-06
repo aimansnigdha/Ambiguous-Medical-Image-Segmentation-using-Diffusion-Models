@@ -1,6 +1,6 @@
 # Ambiguous Medical Image Segmentation using Diffusion Models
 
-We provide the official Pytorch implementation of the paper [Ambiguous Medical Image Segmentation using Diffusion Models]()
+We provide the official Pytorch implementation of the paper [Ambiguous Medical Image Segmentation using Diffusion Models](https://aimansnigdha.github.io/cimd/)
 
 
 The implementation of diffusion model segmentation model presented in the paper is based on [Diffusion Models for Implicit Image Segmentation Ensembles](https://arxiv.org/abs/2112.03145). The Gaussian encoders are from the Pytroch implementation of [Probabilistic Unet](https://github.com/stefanknegt/Probabilistic-Unet-Pytorch).
