@@ -1,5 +1,9 @@
 # Ambiguous Medical Image Segmentation using Diffusion Models
 
+### CVPR 2023
+
+[Paper](https://arxiv.org/pdf/2304.04745.pdf) | [Project](https://aimansnigdha.github.io/cimd/)
+
 We provide the official Pytorch implementation of the paper [Ambiguous Medical Image Segmentation using Diffusion Models](https://aimansnigdha.github.io/cimd/)
 
 
